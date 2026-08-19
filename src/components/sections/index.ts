@@ -1,0 +1,9 @@
+export { Hero } from "@/components/sections/Hero";
+export { About } from "@/components/sections/About";
+export { Programs } from "@/components/sections/Programs";
+export { Advantages } from "@/components/sections/Advantages";
+export { News } from "@/components/sections/News";
+export { Stats } from "@/components/sections/Stats";
+export { Enrollment } from "@/components/sections/Enrollment";
+export { FAQ } from "@/components/sections/FAQ";
+export { Contact } from "@/components/sections/Contact";
